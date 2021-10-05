@@ -1,0 +1,5 @@
+/Users/turgutalptug/RiderProjects/Homework1/publish/Homework1.Service.dll
+/Users/turgutalptug/RiderProjects/Homework1/publish/Homework1.Service.deps.json
+/Users/turgutalptug/RiderProjects/Homework1/publish/Homework1.Service.pdb
+/Users/turgutalptug/RiderProjects/Homework1/publish/Homework1.Core.dll
+/Users/turgutalptug/RiderProjects/Homework1/publish/Homework1.Core.pdb
